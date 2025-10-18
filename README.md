@@ -12,3 +12,4 @@ Bonne méditation 🧘 à vous !
 
 Une gratuite en démonstration :
 
+https://github.com/Seishin-no-Katana/Meditations/blob/1460f1d04adc706b722b7affb03a7676b71bd04b/index.html
