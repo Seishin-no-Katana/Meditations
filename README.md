@@ -17,6 +17,9 @@ https://docs.google.com/document/d/1xZeKoktw9HBxDa7jqZxpVJXWwecPofHy/edit?usp=dr
 En attendant que je trouve pour mettre des boutons PayPal pour les prochaines, dons si possible serait grandement apprécié svp :
 www.paypal.me/magicloic
 
+liens vers toutes les méditations :
+https://github.com/Seishin-no-Katana/Meditations/blob/828dbdfa743454f2a3e4867e95f261ff7dae35d3/index.%20html
+
 Merci 🙏 !
 
 Merci 🙏 à mes clients !
